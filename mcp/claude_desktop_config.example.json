@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "browser-automation": {
+      "command": "python",
+      "args": [
+        "E:/Programming/Website Article/Chrome-Extention/mcp/server.py"
+      ],
+      "env": {}
+    }
+  }
+}
